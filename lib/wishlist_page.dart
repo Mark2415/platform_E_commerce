@@ -1,9 +1,9 @@
 // wishlist_page.dart
 
 import 'package:flutter/material.dart';
-import 'package:week_8_uts/cart_data.dart'; // Import CartData - helper that manages cart items
-import 'package:week_8_uts/wishlist_data.dart';
-import 'package:week_8_uts/homepage.dart';
+import 'package:platform_E_commerce/cart_data.dart'; // Import CartData - helper that manages cart items
+import 'package:platform_E_commerce/wishlist_data.dart';
+import 'package:platform_E_commerce/homepage.dart';
 
 /// A page that displays the user's wishlist.
 ///

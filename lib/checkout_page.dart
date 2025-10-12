@@ -4,7 +4,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:week_8_uts/cart_data.dart'; // Import CartItem
+import 'package:platform_E_commerce/cart_data.dart'; // Import CartItem
 
 /// CheckoutPage displays a review of selected cart items, collects shipping
 /// address and payment method, and calculates the final payable amount.

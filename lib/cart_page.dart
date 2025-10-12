@@ -4,8 +4,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:week_8_uts/cart_data.dart';
-import 'package:week_8_uts/checkout_page.dart';
+import 'package:platform_E_commerce/cart_data.dart';
+import 'package:platform_E_commerce/checkout_page.dart';
 
 class CartPage extends StatefulWidget {
   const CartPage({super.key});

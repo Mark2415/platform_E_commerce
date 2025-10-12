@@ -3,11 +3,11 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
-import 'package:week_8_uts/profile_page.dart';
-import 'package:week_8_uts/wishlist_page.dart';
-import 'package:week_8_uts/wishlist_data.dart';
-import 'package:week_8_uts/cart_page.dart'; // Import halaman keranjang baru
-import 'package:week_8_uts/cart_data.dart'; // Import data keranjang
+import 'package:platform_E_commerce/profile_page.dart';
+import 'package:platform_E_commerce/wishlist_page.dart';
+import 'package:platform_E_commerce/wishlist_data.dart';
+import 'package:platform_E_commerce/cart_page.dart'; // Import halaman keranjang baru
+import 'package:platform_E_commerce/cart_data.dart'; // Import data keranjang
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
