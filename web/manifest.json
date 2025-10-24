@@ -1,6 +1,6 @@
 {
-    "name": "week_8_uts",
-    "short_name": "week_8_uts",
+    "name": "favorite_movie",
+    "short_name": "favorite_movie",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
